@@ -12,7 +12,7 @@ fi
 PS1='\033[1;32m
 \a┏\a  \033[1;32m
 \a┏\a━\a┃ $about  ┃--┃ \@ ┃---| \d ┃
-\a\a┃\a \a\033[1;32m┗━MyanmarHacker━┛\033[1;36m
+\a\a┃\a \a\033[1;32m┗━Myanmar Black Hacker━┛\033[1;36m
 \a┗\a┳\a━\a📂\033[1;32m\w\a📂
 ┗ 👉'
 shopt -s autocd

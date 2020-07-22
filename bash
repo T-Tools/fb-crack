@@ -7,9 +7,8 @@ count1=`expr $month - 0`
 if [[ $day == 08 || $day == 8 ]];then
 about="Happy $count1 Month Anniversary"
 else
-about="Moe Kyaw Aung"
+about="Yawbinhu - Ant"
 fi
-echo $about
 PS1='\033[1;32m
 \a┏\a  \033[1;32m
 \a┏\a━\a┃ $about  ┃--┃ \@ ┃---| \d ┃
